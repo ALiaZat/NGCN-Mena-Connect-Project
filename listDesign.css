@@ -1,0 +1,11 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.web-bar{
+    padding: 20px;
+    width: auto;
+    height: 40px;
+    background: linear-gradient(45deg, lightGray ,gray ,darkGray);
+}
